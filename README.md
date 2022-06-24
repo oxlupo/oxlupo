@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**oxlupo/oxlupo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 my experience in Natural Language Processing is more about:
 
 - Extract Named Entity Recognition(NER) and their relations

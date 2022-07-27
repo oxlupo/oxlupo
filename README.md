@@ -2,7 +2,7 @@
 
 my experience in Natural Language Processing(NLP) is more about:
 
-- Extract Named Entity Recognition(NER) and their relations
+- Extract Named Entity Recognition(NER) and their relations(NED)
 - Research on graph theories
 - I have worked more on BERT, Transformers, Rebel and Roberta model 
 
